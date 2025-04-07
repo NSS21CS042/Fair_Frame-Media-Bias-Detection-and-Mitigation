@@ -1,0 +1,9 @@
+torch==2.0.1
+transformers  # latest
+pandas==1.5.3
+numpy==1.24.0
+matplotlib==3.6.3
+seaborn==0.11.2
+scikit-learn==1.1.3
+rouge-score  # latest
+datasets  # latest
